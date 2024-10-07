@@ -6,7 +6,7 @@ body{
     margin-left: 0px;
 }
 #header-nav {
-margin: 0;
+margin-bottom: -1px;
 background-color: grey;
 border-radius:0;
 padding-left: 10px;
