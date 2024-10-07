@@ -25,13 +25,10 @@ text-align: center;
 
 #nav-list li {
 background-color: #fff;
-border-bottom: 1px solid #ccc;
+border-bottom: 1px solid black;
 }
-
-#nav-list li a {
-color: #000;
-padding: 10px;
-display: block;
+border-hide {
+    border-bottom: 0px;
 }
 
 section {
