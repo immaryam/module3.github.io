@@ -12,7 +12,11 @@ border-radius:0;
 padding-left: 10px;
 border: 2px solid black;
 }
-
+.navbar-brand {
+color: black !important;
+font-size: 24px;
+padding: 15px;
+}
 section {
     background-color:grey;
     padding: 10px;
